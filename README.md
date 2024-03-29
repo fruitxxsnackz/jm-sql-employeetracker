@@ -9,4 +9,4 @@ I did use external resources such as geeksforgeeks, stackoverflow, youtube, and 
 
 ## Video Link
 
-[Untitled_ Mar 29, 2024 12_19 PM.webm](https://github.com/fruitxxsnackz/jm-sql-employeetracker/assets/153016953/2e03bab8-893e-40c9-874a-4e468b9b43c1)
+https://drive.google.com/file/d/1sV83QJVMyjP_gw7LL8UNVAKGTrC-niNM/view
