@@ -1,0 +1,9 @@
+## Description
+
+Creating a database application using different tools and software such as SQL, inquirer, express, and consoletable. Application allows you to access database to view departments, roles, and employees on file, along with the addition of new implementations. 
+
+## Preview
+![Alt text](./assets/Preview%20of%20MODULE12.png)
+
+## Video Link
+
